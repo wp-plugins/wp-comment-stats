@@ -36,11 +36,11 @@ The Dashboard widget shows the following comment stats (It is based on the tutor
 
 **Admin Page Preview**
 
-![Admin Page Preview](/assets/admin-wp-comment-stats.jpg)
+`/assets/admin-wp-comment-stats.jpg`
 
 **Dashboard Preview**
 
-![Dashboard Preview](/assets/dashboard-wp-comment-stats.jpg)
+`/assets/dashboard-wp-comment-stats.jpg`
 
 == Contributions ==
 
