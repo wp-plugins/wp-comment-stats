@@ -34,13 +34,8 @@ The Dashboard widget shows the following comment stats (It is based on the tutor
 
 == Screenshots ==
 
-**Admin Page Preview**
-
-`/assets/admin-wp-comment-stats.jpg`
-
-**Dashboard Preview**
-
-`/assets/dashboard-wp-comment-stats.jpg`
+1. WP Comments Stats Admin Page (running with WordPress 4.2.2 here)
+2. WP Comments Stats Dashboard Widget (running with WordPress 4.2.2 here)
 
 == Contributions ==
 
