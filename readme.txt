@@ -1,5 +1,5 @@
 === WP Comment Stats ===
-Contributors: grafxflow
+Contributors: jammy-to-go
 Tags: comments, stats, dashboard comment stats
 Requires at least: 3.5
 Tested up to: 4.2.2
