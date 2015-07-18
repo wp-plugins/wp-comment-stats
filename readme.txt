@@ -1,4 +1,4 @@
-=== WP Comments Stats ===
+=== WP Comment Stats ===
 Contributors: jammy-to-go
 Tags: comments, stats, dashboard comment stats
 Requires at least: 3.5
